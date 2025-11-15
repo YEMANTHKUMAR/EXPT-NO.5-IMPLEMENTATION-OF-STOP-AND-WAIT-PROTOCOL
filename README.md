@@ -74,10 +74,5 @@ $ns run
 <img width="940" height="547" alt="image" src="https://github.com/user-attachments/assets/d9afa6b1-74fc-4a19-8f7a-aedbbeec05ae" />
 
 
-
-
-
-
-
 # RESULT
 Thus the Stop and Wait protocol is implemented using NS2 and the output is verified successfully.
