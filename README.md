@@ -94,7 +94,8 @@ $ns run
 # OUTPUT
 
 
-<img width="940" height="547" alt="image" src="https://github.com/user-attachments/assets/d9afa6b1-74fc-4a19-8f7a-aedbbeec05ae" />
+<img width="915" height="568" alt="image" src="https://github.com/user-attachments/assets/c1fb3008-f8c9-4ca1-b181-f22d1b3b3a66" />
+
 
 
 # RESULT
